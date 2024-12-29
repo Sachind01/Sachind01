@@ -38,7 +38,7 @@ I am an individual with a strong technical foundation in **Digital Electronics**
 - 3-Stage Pipelined RISC-V processor (RV32I)
 - Asynchronous FIFO with custom design requirements
 - Gesture-based Home Automation System using Zynq 7000 SoC FPGA
-- Ecofloater (a water drone designed to waste)
+- Ecofloater (a water drone designed to collect wastes from water bodies)
 - Smart Home Automation system using Arduino UNO and OpenCV
 
 ## 📫 Connect with Me
